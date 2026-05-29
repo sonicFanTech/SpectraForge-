@@ -734,16 +734,7 @@ Image loading uses Windows Imaging Component/WIC, which is part of Windows.
 
 ## License
 
-No final license has been chosen yet.
-
-If this project is uploaded publicly to GitHub, it is recommended to add a `LICENSE` file.
-
-Common choices include:
-
 - MIT License
-- BSD 3-Clause License
-- GPLv3
-- No license / all rights reserved
 
 Important note:
 
