@@ -84,28 +84,6 @@ This is one of the most important features because it makes sound visible as an 
 
 ---
 
-## Screenshots
-
-Screenshots can be added here later.
-
-Suggested screenshot sections:
-
-```md
-### Main GUI
-
-![Main GUI](screenshots/main_gui.png)
-
-### Spectrogram Export Example
-
-![Spectrogram Example](screenshots/spectrogram_example.png)
-
-### Waveform Export Example
-
-![Waveform Example](screenshots/waveform_example.png)
-```
-
----
-
 ## Version 0.3 Prototype Features
 
 ### Main Features
